@@ -7,5 +7,4 @@ $(NAME): $(OBJ)
 	$(CC) $(CFLAGS) $^ -o $@
 
 clean:
-	rm -f $(NAME)
 	rm -f $(OBJ)
