@@ -1,0 +1,6 @@
+[submodule "lib/cofyc/argparse"]
+	path = lib/cofyc/argparse
+	url = https://github.com/Cofyc/argparse
+[submodule "lib/finwo/http-parser"]
+	path = lib/finwo/http-parser
+	url = https://github.com/finwo/http-parser
